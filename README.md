@@ -1,6 +1,6 @@
-# docker-tor-privoxy
+# Docker Tor
 
-[![Build Status](https://cloud.drone.io/api/badges/bogny/tor/status.svg)](https://cloud.drone.io/bogny/tor)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bogny/tor/docker-publish)](https://github.com/bogny/tor)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bogny/tor.svg)](https://hub.docker.com/r/bogny/tor)
 [![Docker Stars](https://img.shields.io/docker/stars/bogny/tor.svg)](https://hub.docker.com/r/bogny/tor)
 [![MicroBadger](https://images.microbadger.com/badges/image/bogny/tor.svg)](https://microbadger.com/images/bogny/tor)
