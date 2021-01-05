@@ -1,0 +1,7 @@
+SOCKSPort 0.0.0.0:9050
+
+SOCKSPolicy accept *
+
+RunAsDaemon 1
+
+ControlPort 9051

@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  tor:
+    image: bogny/tor:latest
+    restart: always
+    ports:
+      - "9050:9050" # Tor proxy
+      - "9051:9051" # Tor control port
